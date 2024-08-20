@@ -8,7 +8,7 @@ ticker_list_2 = ticker_list[480:720]
 ticker_list_3 = ticker_list[720:960]
 ticker_list_4 = ticker_list[960:]
 
-key_1 = 's0VE1lluWxEJ6ucRC2fPzVIjFcLi2De6'
+key_1 = ''
 
 save_stock_market_caps_to_csv(ticker_list_test, "2000-01-01", "2024-08-11", key_1)
 
